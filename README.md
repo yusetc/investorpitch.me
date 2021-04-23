@@ -1,2 +1,2 @@
-# investorpitch.me
-Github static page for Investorpitch.me 
+# Investor Pitch Me Directory
+
