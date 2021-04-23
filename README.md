@@ -1,2 +1,0 @@
-# Investor Pitch Me Directory
-
