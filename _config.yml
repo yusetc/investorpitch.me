@@ -1,6 +1,6 @@
 # Site settings
 title: "Investor Pitch Me Directory"
-email: "darren@chaospointadvisory.com"
+email: "sales@chaospointadvisory.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://investorpitch.me" # the base hostname & protocol for your site
